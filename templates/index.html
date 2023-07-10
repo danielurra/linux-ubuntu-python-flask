@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping</title>
+</head>
+<body>
+    <h1>Shopping Pepe</h1>
+    <ul>
+        {% for item in items %}
+            <li>{{ item }} <small><a href="{{ url_for('remove_item', name=item) }}">Remove</a></small> </li>
+        {% endfor %}
+    </ul>
+    <form method="POST">
+        <input type="text" name="item">
+        <input type="submit" value="Add to List">
+    </form>
+</body>
+</html>
