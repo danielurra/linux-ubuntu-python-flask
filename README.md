@@ -13,7 +13,7 @@
 Our example is a basic web App that has no database yet, just hardcoded items.
 ![ubu-py-flask](https://github.com/danielurra/linux-ubuntu-python-flask/assets/51704179/79b9db9a-d654-448b-819e-5672e2b9e1fc)
 
-## Saving modules to a txt file
+## Saving modules to a .txt file
 ```bash
 pip freeze > requirements.txt
 ```
