@@ -3,8 +3,8 @@
 
 
 ## Flask first Web App
-`Flask` is a small framework, available with a good number of auxiliary functions, known almost as well as Django, suitable for developing
-small and medium applications such as:
+`Flask` is a **small framework**, available with a good number of auxiliary functions, suitable for developing
+**small and medium applications** such as:
 * Blog
 * Forum
 * Personal website
