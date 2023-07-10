@@ -6,6 +6,16 @@
 Basic web App, has no database yet, just hardcoded items.
 ![ubu-py-flask](https://github.com/danielurra/linux-ubuntu-python-flask/assets/51704179/79b9db9a-d654-448b-819e-5672e2b9e1fc)
 
+## requirements.txt
+```bash
+blinker==1.6.2
+click==8.1.4
+Flask==2.3.2
+itsdangerous==2.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.3
+Werkzeug==2.3.6
+```
 ## Grab the Python code
 ```python
 from flask import Flask, render_template, request, redirect, url_for, jsonify
