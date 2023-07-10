@@ -83,7 +83,7 @@ if __name__ == '__main__':
     <h1>Shopping Pepe</h1>
     <ul>
         {% for item in items %}
-            <li>{{ item }} <small><a href="{{ url_for('remove_item', name=item) }}">Remove</a></small> </li>
+            <li>{{ item }} <a href="{{ url_for('remove_item', name=item) }}">Remove</a> </li>
         {% endfor %}
     </ul>
     <form method="POST">
