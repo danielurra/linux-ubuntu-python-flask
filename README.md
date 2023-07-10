@@ -1,5 +1,6 @@
 # Linux Ubuntu Python Flask
-![Linux-Ubu-Python-Flask](https://github.com/danielurra/linux-ubuntu-python-flask/assets/51704179/0750b11d-fe52-47f4-90ed-e7a1d68f89b4)
+![Linux-Ubuntu-Python-Flask](https://github.com/danielurra/linux-ubuntu-python-flask/assets/51704179/46106143-fe2b-40b0-b281-95c582303e64)
+
 
 ## Basic Web App
 Basic web App, has no database yet, just hardcoded items.
