@@ -9,11 +9,25 @@ Basic web App, has no database yet, just hardcoded items.
 ## requirements.txt
 ```bash
 blinker==1.6.2
+certifi==2023.5.7
+charset-normalizer==3.2.0
 click==8.1.4
+defusedxml==0.7.1
 Flask==2.3.2
+httpie==3.2.2
+idna==3.4
 itsdangerous==2.1.2
 Jinja2==3.1.2
+markdown-it-py==3.0.0
 MarkupSafe==2.1.3
+mdurl==0.1.2
+multidict==6.0.4
+Pygments==2.15.1
+PySocks==1.7.1
+requests==2.31.0
+requests-toolbelt==1.0.0
+rich==13.4.2
+urllib3==2.0.3
 Werkzeug==2.3.6
 ```
 ## Grab the Python code
