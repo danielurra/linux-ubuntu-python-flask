@@ -2,7 +2,7 @@
 ![Linux-Ubuntu-Python-Flask](https://github.com/danielurra/linux-ubuntu-python-flask/assets/51704179/46106143-fe2b-40b0-b281-95c582303e64)
 
 
-## Flask first Web App
+## Flask basic Web App
 `Flask` is a **small framework**, available with a good number of auxiliary functions, suitable for developing
 **small and medium applications** such as:
 * Blog
