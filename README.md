@@ -36,5 +36,6 @@ if __name__ == '__main__':
     app.run(debug=True)
 ```
 ## Jsonify in action
-![jsonify-01](https://github.com/danielurra/linux-ubuntu-python-flask/assets/51704179/b6897942-6b08-4b62-8307-60aa542f4cc2)
+![jsonify-02](https://github.com/danielurra/linux-ubuntu-python-flask/assets/51704179/f1adb672-5271-4e1f-8f31-e4c5f88ee881)
+
 
