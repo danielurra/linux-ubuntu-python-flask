@@ -70,6 +70,29 @@ def get_items():
 if __name__ == '__main__':
     app.run(debug=True)
 ```
+## index.html
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping</title>
+</head>
+<body>
+    <h1>Shopping Pepe</h1>
+    <ul>
+        {% for item in items %}
+            <li>{{ item }} <small><a href="{{ url_for('remove_item', name=item) }}">Remove</a></small> </li>
+        {% endfor %}
+    </ul>
+    <form method="POST">
+        <input type="text" name="item">
+        <input type="submit" value="Add to List">
+    </form>
+</body>
+</html>
+```
 ## Jsonify in action
 If you want to return something else like JSON, then you have to use the jsonify function.<br>
 The **Flask** `jsonify()` **function** converts its argument to a JSON string and returns it, along with the HTTP response header indicating that it’s JSON, tha's **application/json** as the content type in the HTTP header.<br>
