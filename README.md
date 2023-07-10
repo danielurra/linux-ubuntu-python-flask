@@ -36,6 +36,8 @@ if __name__ == '__main__':
     app.run(debug=True)
 ```
 ## Jsonify in action
+The Flask jsonify() function converts its argument to a JSON string and returns it, along with the HTTP response header indicating that it’s JSON.<br>
+Recent versions of Flask will automatically convert it to JSON and return it.<br>
 ![jsonify-02](https://github.com/danielurra/linux-ubuntu-python-flask/assets/51704179/f1adb672-5271-4e1f-8f31-e4c5f88ee881)
 
 
