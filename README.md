@@ -35,3 +35,6 @@ def get_items():
 if __name__ == '__main__':
     app.run(debug=True)
 ```
+## Jsonify in action
+![jsonify-01](https://github.com/danielurra/linux-ubuntu-python-flask/assets/51704179/b6897942-6b08-4b62-8307-60aa542f4cc2)
+
