@@ -2,14 +2,19 @@
 ![Linux-Ubuntu-Python-Flask](https://github.com/danielurra/linux-ubuntu-python-flask/assets/51704179/46106143-fe2b-40b0-b281-95c582303e64)
 
 
-## Flask basic Web App
+## Flask framework
 `Flask` is a **small framework**, available with a good number of auxiliary functions, suitable for developing
 **small and medium applications** such as:
 * Blog
 * Forum
 * Personal website
 * etc.
-  
+
+## Flask minimal App -  web server
+![flask-intro](https://github.com/danielurra/linux-ubuntu-python-flask/assets/51704179/2c44354f-feac-495d-af33-25c5d57adeaf)
+![srv-minimal-app](https://github.com/danielurra/linux-ubuntu-python-flask/assets/51704179/18072b7e-3308-4aba-8b74-d4cfccbe85eb)
+
+## Basic web App  
 Our example is a basic web App that has no database yet, just hardcoded items.
 ![ubu-py-flask](https://github.com/danielurra/linux-ubuntu-python-flask/assets/51704179/79b9db9a-d654-448b-819e-5672e2b9e1fc)
 
