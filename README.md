@@ -12,7 +12,7 @@
 
 ## Flask minimal App -  web server
 ![flask-intro](https://github.com/danielurra/linux-ubuntu-python-flask/assets/51704179/2c44354f-feac-495d-af33-25c5d57adeaf)
-![srv-minimal-app](https://github.com/danielurra/linux-ubuntu-python-flask/assets/51704179/18072b7e-3308-4aba-8b74-d4cfccbe85eb)
+![web-srv-minimal-application](https://github.com/danielurra/linux-ubuntu-python-flask/assets/51704179/8f2a0eea-bd24-4a25-95a7-1a03a918c9f9)
 
 ## Basic web App  
 Our example is a basic web App that has no database yet, just hardcoded items.
